@@ -15,7 +15,7 @@ This cookiecutter template automatically generates the general file structure fo
 ## Using the cookiecutter template
 
 1. Clone this repository.
-2. Set up the environment using the `environment.yml` file.
+2. Set up the environment using the `cookiecutter_environment.yml` file.
 3. Navigate to the desired location of your new Example.
 3. Run this command:
 
