@@ -1,12 +1,12 @@
 # {{cookiecutter.README.md_Title}}
 
-{{cookiecutter.Example_Description}}
+This repository contains an example simulation of {{cookiecutter.README.md_Title}}. {{cookiecutter.Example_Description}}
 
 This example reproduces part of the case study from:
 
-* *"Efficient numerical simulation of simulated moving bed chromatography with a single-column solver"*
-  Qiao-Le He, Samuel Leweke, Eric von Lieres
-  *Computers & Chemical Engineering* (2018); 111:183-198.
+* *“Example Title of Reference”*
+  Martina Mustermann
+  *Journal* (2018); 111:183-198.
   [doi:10.1016/j.compchemeng.2017.12.022.](https://www.sciencedirect.com/science/article/pii/S0098135417304520)
 
 ---
@@ -55,4 +55,4 @@ The results will be stored in the `src` folder inside the `output` directory.
 ## Output Repository
 
 The output data for this case study can be found here:
-{{cookiecutter.Output_Repo_Path}}
+[{{cookiecutter.Output_Repo_Path}}]({{cookiecutter.Output_Repo_Path}})
