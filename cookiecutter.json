@@ -1,10 +1,10 @@
 {
-    "Title":"Example",
+    "README.md_Title":"Example",
     "RDM_Example_Name" : "RDM_Example_New",
     "Example_Description": "This Example uses CADET-RDM and CADET-Process",
-    "Author1": "Authorname",
+    "Author1": "Author Name",
     "Author2": "",
     "Author3":"",
     "Author4":"",
-    "Output_Repo": "https://github.com/cadet/RDM-Example"
+    "Output_Repo_Path": "https://github.com/cadet/RDM-Example"
 } 

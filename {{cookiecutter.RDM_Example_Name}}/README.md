@@ -1,4 +1,4 @@
-# {{cookiecutter.Title}}
+# {{cookiecutter.README.md_Title}}
 
 {{cookiecutter.Example_Description}}
 
@@ -13,10 +13,10 @@ This example reproduces part of the case study from:
 
 ## Authors
 
-*{{cookiecutter.Author1}}
-*{{cookiecutter.Author2}}
-*{{cookiecutter.Author3}}
-*{{cookiecutter.Author4}}
+* {{cookiecutter.Author1}}
+* {{cookiecutter.Author2}}
+* {{cookiecutter.Author3}}
+* {{cookiecutter.Author4}}
 ---
 
 ## Running the Example Simulation
@@ -55,4 +55,4 @@ The results will be stored in the `src` folder inside the `output` directory.
 ## Output Repository
 
 The output data for this case study can be found here:
-{{cookiecutter.Output_Repo}}
+{{cookiecutter.Output_Repo_Path}}
