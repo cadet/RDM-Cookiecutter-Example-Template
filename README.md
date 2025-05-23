@@ -1,10 +1,8 @@
 # Cookiecutter Template for RDM-Examples
-
 This cookiecutter template automatically generates the general file structure for a new CADET-RDM-Example. Please refer to [https://github.com/cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) for additional information. 
 ---
 
 ## Authors
-
 *Katharina Paul
 *Ronald Jäpel
 *Hannah Lanzrath 
