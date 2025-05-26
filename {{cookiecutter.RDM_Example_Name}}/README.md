@@ -1,6 +1,6 @@
-# {{cookiecutter.README.md_Title}}
+# {{cookiecutter.README_md_Title}}
 
-This repository contains an example simulation of {{cookiecutter.README.md_Title}}. {{cookiecutter.Example_Description}}
+This repository contains an example simulation of {{cookiecutter.README_md_Title}}. {{cookiecutter.Example_Description}}
 
 This example reproduces part of the case study from:
 
