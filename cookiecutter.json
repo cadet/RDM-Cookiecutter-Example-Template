@@ -1,10 +1,9 @@
 {
     "README_md_Title":"Example Simulation with CADET",
-    "RDM_Example_Name" : "Example process name",
+    "RDM_Example_Repo_Name" : "RDM-Example-Name",
     "Example_Description": "This Example uses CADET-RDM and CADET-Process",
     "Author1": "Author Name",
     "Author2": "",
     "Author3":"",
     "Author4":"",
-    "Output_Repository_Path": "https://github.com/cadet/RDM-Example"
 } 
