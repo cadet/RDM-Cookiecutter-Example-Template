@@ -29,3 +29,13 @@ This cookiecutter template automatically generates the general file structure fo
    ```bash
    rdm init
    ```
+6. Add git remote origins for project repository and output repository 
+7. Run the following CADET-RDM commands in the directory of the project repository to automatically stage and push all changes within the project and output repository: 
+
+   ```bash
+   rdm check
+   ```
+
+      ```bash
+   rdm push
+   ```
