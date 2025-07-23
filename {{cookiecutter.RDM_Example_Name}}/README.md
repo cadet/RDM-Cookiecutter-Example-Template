@@ -55,4 +55,4 @@ The results will be stored in the `src` folder inside the `output` directory.
 ## Output Repository
 
 The output data for this case study can be found here:
-[{{cookiecutter.Output_Repo_Path}}]({{cookiecutter.Output_Repo_Path}})
+[{{cookiecutter.Output_Repository_Path}}]({{cookiecutter.Output_Repository_Path}})
